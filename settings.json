@@ -1,0 +1,4 @@
+{
+    "livePreview.defaultPreviewPath": "/web.html",
+    "liveServer.settings.CustomBrowser": "chrome"
+}
